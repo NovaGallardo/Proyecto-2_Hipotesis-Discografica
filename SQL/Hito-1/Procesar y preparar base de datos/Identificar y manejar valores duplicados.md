@@ -1,3 +1,5 @@
+# Identificar y manejar valores duplicados
+
 ## Identificar valores duplicados en “track_in_spotify_null”
 
 ```sql
