@@ -19,7 +19,7 @@ Descargar consulta en .csv y Hoja de Cálculos.
 
 </aside>
 
-![unnamed (2).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebb9ff67-9568-4153-82ed-51e9dbc8b9ad/65ed8da6-2c72-446e-ab11-723e939e4301/unnamed_(2).png)
+![unnamed (2)](https://github.com/user-attachments/assets/ca5afd40-e44a-4e43-a71f-d49046d431d5)
 
 Decidimos dejar la versión que tenga más streams. En el caso de Rosa Linn es la de ID 5675634, para Lizzo cualquiera de las dos (ambas tienen igual cantidad de streams), para The Weeknd el ID 4586215, para ThxSoMch el ID 4967469.
 
