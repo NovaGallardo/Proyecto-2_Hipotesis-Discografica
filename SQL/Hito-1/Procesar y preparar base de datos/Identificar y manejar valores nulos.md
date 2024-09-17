@@ -1,3 +1,5 @@
+# Identificar y manejar valores nulos
+
 ## Consultar valores nulos en “track_in_competition”
 
 ```sql
